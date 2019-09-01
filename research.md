@@ -11,12 +11,14 @@ My research interests lie in the intersection between differential geometry and 
 
 The following are some of my recent works:
 
-Xiaokui Yang,  RC positivity, rational connectedness and Yau's conjecture.  Camb. J. Math. 6 (2018), 183-212.
+Xiaokui Yang,  RC positivity, rational connectedness and Yau's conjecture.  **Camb. J. Math.** 6 (2018), 183-212.
+
 In this paper, we introduce a new curvature notion "RC-positivity" for abstract vector bundles and by using this notion we prove a long-standing conjecture of S.-T. Yau (Problem 47 of his Problem Section, 1982 ) affirmatively that compact Kahler manifolds with positive holomorphic sectional curvature must be algebraic and rationally connected.
 
 
 
-K.-F. Liu, S. Rao, Xiaokui Yang,  Quasi-isometry and deformations of Calabi-Yau manifolds.  Invent. Math. 199 (2015), no. 2, 423-453. 
+K.-F. Liu, S. Rao, Xiaokui Yang,  Quasi-isometry and deformations of Calabi-Yau manifolds.  **Invent. Math.** 199 (2015), no. 2, 423-453. 
+
 We prove that the formal expansion of Beltrami differentials for the deformation of Calabi-Yau manifolds has at least radius 1 which was previously well-known to be sufficiently small (Kodaira-Spencer-Kuranishi theory). The proof is based on two Hodge-theoretical theorems on general compact Kahler manifolds and also the hypoelliptic theory of holomorphic currents of pure-type. For two Hodge-theoretical results, one (so called “quasi-isometry”) is an analogue of Hormander’s classical L2-estimates, and the other one is analogous to Cartan’s formula, which is also a generalization of the well-known Tian-Todorov Lemma on Calabi-Yau manifolds.
 
 
