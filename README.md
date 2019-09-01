@@ -1,5 +1,5 @@
 
-[杨晓奎](https://ubw-q.github.io)  | [Background](https://ubw-q.github.io/BG)  | [Research](https://ubw-q.github.io/Rs) |  [Reseach](https://ubw-q.github.io/Art)  
+[杨晓奎](https://ubw-q.github.io)  | [Home](https://ubw-q.github.io/BG)  | [Teaching](https://ubw-q.github.io/teaching) |  [Research](https://ubw-q.github.io/reseach)  |  [Publications](https://ubw-q.github.io/publications)  |  [Activity](https://ubw-q.github.io/activity)  |  [CV](https://ubw-q.github.io/cv)  
 
 
 
