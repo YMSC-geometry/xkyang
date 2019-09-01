@@ -1,7 +1,6 @@
 
-[杨晓奎](https://ubw-q.github.io)  | [Background](https://ubw-q.github.io/BG)  | [Research](https://ubw-q.github.io/Rs) |  [Tex Art](https://ubw-q.github.io/Art)  
-:---: | :---: | :---: | :---:
-[<span style="font-family:STKaiti;font-size:12;font-color:blue"杨晓奎</span>](https://ubw-q.github.io/Qy) | [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 背景 </span>](https://ubw-q.github.io/BJ)  | [Research](https://ubw-q.github.io/Rs)       |  [<span style="font-family:STKaiti;font-size:12;font-color:blue"> Teaching </span>](https://ubw-q.github.io/Art) 
+[杨晓奎](https://ubw-q.github.io)  | [Background](https://ubw-q.github.io/BG)  | [Research](https://ubw-q.github.io/Rs) |  [Reseach](https://ubw-q.github.io/Art)  
+
 
 
 
