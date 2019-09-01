@@ -3,8 +3,6 @@
 
 
 
-
-
 My research interests lie in the intersection between differential geometry and algebraic geometry. Some specific topics are: Riemannian geometry, Kähler geometry, Calabi-Yau manifolds, almost-complex, symplectic and Hermitian geometry, geometric flows, complex Monge-Ampère equations, transcendental and algebraic methods in algebraic geometry.
 
 
