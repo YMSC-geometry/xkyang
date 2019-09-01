@@ -19,6 +19,7 @@ Tsinghua  University, Beijing 100084
 </span>
 
 ## Publications
-3. q-Stability conditions via $q$-quadratic differentials. _with Akishi Ikeda_, <br> 
+
+12. q-Stability conditions via $q$-quadratic differentials. _with Akishi Ikeda_, <br> 
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
    
