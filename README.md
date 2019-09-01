@@ -1,17 +1,18 @@
 
 
 Xiaokui Yang  (杨晓奎) 
+
  Professor
 
- Ph.D.,  University of California at Los Angeles,  2012
+Ph.D.,  University of California at Los Angeles,  2012
 
 Department of Mathematics and Yau Mathematical Sciences Center,
 
 Tsinghua  University, Beijing 100084
 
-Office: Room 211, Jingzhai
+**Office**: Room 211, Jingzhai
 
-Email address:  xkyang   @    mail.tsinghua.edu.cn.
+**Email address**:  xkyang   @    mail.tsinghua.edu.cn.
 
 
 
