@@ -1,3 +1,27 @@
+
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>无限·剑宇</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="无限·剑宇" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ymsc-geometry.github.io/xkyang" />
+<meta property="og:url" content="https://ymsc-geometry.github.io/xkyang" />
+<meta property="og:site_name" content="无限·剑宇" />
+<script type="application/ld+json">
+
+
+
+
+
+
+
+
+
+
 Xiaokui Yang  (杨晓奎) 
 
  Professor
