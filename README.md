@@ -15,10 +15,10 @@ Tsinghua  University, Beijing 100084
 
 
 ## Research interest: 
-<span style="font-color:blue;font-size:20px;"> My research interests lie in the intersection between differential geometry and algebraic geometry. Some specific topics are: Riemannian geometry, Kähler geometry, Calabi-Yau manifolds, almost-complex, symplectic and Hermitian geometry, geometric flows, complex Monge-Ampère equations, transcendental and algebraic methods in algebraic geometry.
+<span style="font-color:blue;font-size:19px;"> My research interests lie in the intersection between differential geometry and algebraic geometry. Some specific topics are: Riemannian geometry, Kähler geometry, Calabi-Yau manifolds, almost-complex, symplectic and Hermitian geometry, geometric flows, complex Monge-Ampère equations, transcendental and algebraic methods in algebraic geometry.
 </span>
 
 ## Publications
-4. q-Stability conditions via $q$-quadratic differentials. _with Akishi Ikeda_, <br> 
+3. q-Stability conditions via $q$-quadratic differentials. _with Akishi Ikeda_, <br> 
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
    
